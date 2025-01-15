@@ -30,13 +30,6 @@ O projeto "Amigo Secreto" é uma aplicação web simples que permite aos usuári
 3. Clique no botão "Adicionar" para incluir o nome na lista.
 4. Após adicionar pelo menos dois amigos, clique no botão "Sortear amigo" para ver quem será o amigo secreto.
 
-## Capturas de Tela
-![Adicionar Amigos](assets/screenshot1.png)
-*Exemplo de como adicionar amigos.*
-
-![Resultado do Sorteio](assets/screenshot2.png)
-*Exemplo do resultado do sorteio.*
-
 ## Problemas Comuns
 - **Nenhum amigo foi adicionado**: Certifique-se de que você adicionou pelo menos um amigo antes de tentar sortear.
 - **Adicione mais amigos**: O sorteio requer pelo menos dois amigos para funcionar.
